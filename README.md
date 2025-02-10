@@ -40,7 +40,7 @@ To install and use this application locally, please follow these steps:
 
 Clone the repository using the SSH:
 
-git@github.com:elele20005/Rafiu_Book_Search_Engine
+git clone git@github.com:elele20005/Rafiu_Book_Search_Engine
 
 Navigate to the project directory:
 
