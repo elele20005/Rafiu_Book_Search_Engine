@@ -1,4 +1,4 @@
-# Rafiu_Link
+# Rafiu_Book_Search_Engine
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 
@@ -9,7 +9,7 @@ I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 
 ## Description: GraphQL API built with Apollo Server
-Rafiu_Link is a social network API that allows users to share their thoughts, add other users as friends, and react to friends' thoughts.
+Rafiu_Book_Search_Engine is a social network GraphQl API that allows users to seaech for new books to read and keep a list of books to purchase. 
 
 
                               `The Snippet Is Shown Below`
