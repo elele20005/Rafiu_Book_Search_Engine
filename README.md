@@ -40,7 +40,7 @@ To install and use this application locally, please follow these steps:
 
 Clone the repository using the SSH:
 
-git clone git@github.com:elele20005/Rafiu_Book_Search_Engine
+git clone git@github.com:elele20005/Rafiu_Book_Search_Engine.git
 
 Navigate to the project directory:
 
@@ -56,7 +56,8 @@ To use Rafiu_Book_Search_Engine locally you will run:
 `npm run build` and `npm run start`
 
 ## Credits
-Initial SraterCode was provided. My task was to All code was written by me with assistance from various AI chatbots, including Claude, ChatGPT, and GitHub Copilot. I also wathed a lot of Youtube tutorials when troubleshooting issues with Insomnia. Additionally, several YouTube tutorials were referenced to better understand API structure as well. 
+Initial StaterCode was provided. My task was to convert it from RESTful API practices to a GraphQL API.  Also to Update the auth middleware function to work with the GraphQL API.
+Implement the Apollo Server and apply it to the Express server as middleware. All code was written by me with assistance from various AI chatbots, including Claude, ChatGPT, and GitHub Copilot. I also watched a lot of Youtube tutorials when troubleshooting issues with Render. Additionally, several YouTube tutorials were referenced to better understand API structure as well. 
 
 ## License
 This project is licensed under the MIT license and Apache 2.0. See the LICENSE file for details.
