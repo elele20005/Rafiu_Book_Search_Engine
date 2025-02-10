@@ -9,7 +9,7 @@ I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 
 ## Description: GraphQL API built with Apollo Server
-Rafiu_Book_Search_Engine is a social network GraphQl API that allows users to seaech for new books to read and keep a list of books to purchase. 
+Rafiu_Book_Search_Engine is a web app GraphQl API that allows users to seaech for new books to read, save, and keep a list of their favorite books to purchase. By signing up or logging in, users can enjoy personalized features, such as managing a collection of saved books. The search tool allows users to find books by title, author, or keyword, showcasing key details like the book’s cover, description, and author information.
 
 
                               `The Snippet Is Shown Below`
