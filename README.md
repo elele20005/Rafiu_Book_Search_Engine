@@ -4,9 +4,9 @@
 
 ## User Story
 
-AS A social media startup
-I WANT an API for my social network that uses a NoSQL database
-SO THAT my website can handle large amounts of unstructured data
+AS AN avid reader
+I WANT to search for new books to read
+SO THAT I can keep a list of books to purchase
 
 ## Description: GraphQL API built with Apollo Server
 Rafiu_Link is a social network API that allows users to share their thoughts, add other users as friends, and react to friends' thoughts.
