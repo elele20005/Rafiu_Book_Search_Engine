@@ -36,8 +36,27 @@ The README includes sections for Description, Installation, Usage,Credits, Licen
 -Questions
 
 ## Installation
-Ensure Node.js is installed. Download or clone the repo. Use `npm i` to install the dependencies needed for the project. Use `npm run build` to build the app. Use `npm start` or `npm run dev` to run the server.
- 
+To install and use this application locally, please follow these steps:
+
+Clone the repository using the SSH:
+
+git@github.com:elele20005/Rafiu_Book_Search_Engine
+
+Navigate to the project directory:
+
+cd Rafiu_Book_Search_Engine
+
+Install the dependencies:
+
+npm install
+
+Usage
+To use the Book_Search locally you will run:
+
+`npm run develope`
+You can also visit the live page:
+
+https://book-search-1kjm.onrender.com/
 ## Usage
 While server is running, utilize Insomnia, MongoDBCompass or similar program which can simulate API calls. Use the appropriate routes listed in the routes code.
 
