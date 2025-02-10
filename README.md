@@ -50,18 +50,13 @@ Install the dependencies:
 
 npm install
 
-Usage
-To use the Book_Search locally you will run:
-
-`npm run develope`
-You can also visit the live page:
-
-https://book-search-1kjm.onrender.com/
 ## Usage
-While server is running, utilize Insomnia, MongoDBCompass or similar program which can simulate API calls. Use the appropriate routes listed in the routes code.
+To use Rafiu_Book_Search_Engine locally you will run:
+
+`npm run build` and `npm run start`
 
 ## Credits
-All code was written by me with assistance from various AI chatbots, including Claude, ChatGPT, and GitHub Copilot. I also wathed a lot of Youtube tutorials when troubleshooting issues with Insomnia. Additionally, several YouTube tutorials were referenced to better understand API structure as well. 
+Initial SraterCode was provided. My task was to All code was written by me with assistance from various AI chatbots, including Claude, ChatGPT, and GitHub Copilot. I also wathed a lot of Youtube tutorials when troubleshooting issues with Insomnia. Additionally, several YouTube tutorials were referenced to better understand API structure as well. 
 
 ## License
 This project is licensed under the MIT license and Apache 2.0. See the LICENSE file for details.
