@@ -56,7 +56,7 @@ To use Rafiu_Book_Search_Engine locally you will run:
 `npm run build` and `npm run start`
 
 ## Credits
-Initial StarterCode was provided. My task was to convert it from RESTful API practices to a GraphQL API.  Also to Update the auth middleware function to work with the GraphQL API.
+Initial StarterCode was provided by the EdX. My task was to convert it from RESTful API practices to a GraphQL API.  Also to Update the auth middleware function to work with the GraphQL API.
 Implement the Apollo Server and apply it to the Express server as middleware. The Converting codes were written by me with assistance from various AI chatbots, including Claude, ChatGPT, and GitHub Copilot. I also watched a lot of Youtube tutorials when troubleshooting issues with Render. Additionally, several YouTube tutorials were referenced to better understand API structure as well. 
 
 ## License
