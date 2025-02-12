@@ -48,7 +48,7 @@ cd Rafiu_Book_Search_Engine
 
 Install the dependencies:
 
-npm install
+'npm install'
 
 ## Usage
 To use Rafiu_Book_Search_Engine locally you will run:
