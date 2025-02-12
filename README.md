@@ -40,7 +40,7 @@ To install and use this application locally, please follow these steps:
 
 Clone the repository using the SSH:
 
-'git clone git@github.com:elele20005/Rafiu_Book_Search_Engine.git'
+`git clone git@github.com:elele20005/Rafiu_Book_Search_Engine.git`
 
 Navigate to the project directory:
 
@@ -48,7 +48,7 @@ cd Rafiu_Book_Search_Engine
 
 Install the dependencies:
 
-'npm install'
+`npm install`
 
 ## Usage
 To use Rafiu_Book_Search_Engine locally you will run:
