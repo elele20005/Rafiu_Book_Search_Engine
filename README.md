@@ -9,7 +9,7 @@ I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 
 ## Description: GraphQL API built with Apollo Server
-Rafiu_Book_Search_Engine is a web app GraphQl API that allows users to seaech for new books to read, save, and keep a list of their favorite books to purchase. By signing up or logging in, users can enjoy personalized features, such as managing a collection of saved books. The search tool allows users to find books by title, author, or keyword, showcasing key details like the book’s cover, description, and author information.
+Rafiu_Book_Search_Engine is a web app `GraphQl API` that allows users to seaech for new books to read, save, and keep a list of their favorite books to purchase. By signing up or logging in, users can enjoy personalized features, such as managing a collection of saved books. The search tool allows users to find books by title, author, or keyword, showcasing key details like the book’s cover, description, and author information.
 
 
                               `The Snippet Is Shown Below`
@@ -44,7 +44,7 @@ Clone the repository using the SSH:
 
 Navigate to the project directory:
 
-cd Rafiu_Book_Search_Engine
+cd `Rafiu_Book_Search_Engine`
 
 Install the dependencies:
 
@@ -56,8 +56,8 @@ To use Rafiu_Book_Search_Engine locally you will run:
 `npm run build` and `npm run start`
 
 ## Credits
-Initial StarterCode was provided by the edX. My task was to convert it from RESTful API practices to a GraphQL API.  Also to Update the auth middleware function to work with the GraphQL API.
-Implement the Apollo Server and apply it to the Express server as middleware. The Converting codes were written by me with assistance from various AI chatbots, including Claude, ChatGPT, and GitHub Copilot. I also watched a lot of Youtube tutorials when troubleshooting issues with Render. Additionally, several YouTube tutorials were referenced to better understand API structure as well. 
+Initial StarterCode was provided by the edX. My task was to convert it from RESTful API practices to a `GraphQL API`.  Also to Update the auth middleware function to work with the `GraphQL API`.
+Implement the `Apollo Server` and apply it to the Express server as middleware. The Converting codes were written by me with assistance from various AI chatbots, including Claude, ChatGPT, and GitHub Copilot. I also watched a lot of Youtube tutorials when troubleshooting issues with Render. Additionally, several YouTube tutorials were referenced to better understand API structure as well. 
 
 ## License
 This project is licensed under the MIT license and Apache 2.0. See the LICENSE file for details.
